@@ -1,0 +1,11 @@
+Object Count,Block Material,X-Coordinate,Y-Coordinate,Z-Coordinate
+1,Dirt,0,0,0
+2,Dirt,0,0,5
+3,Dirt,0,5,0
+4,Dirt,0,5,5
+5,Dirt,5,0,0
+6,Dirt,5,0,5
+7,Dirt,5,5,0
+8,Dirt,5,5,5
+9,Stone,6,5,5
+10,Dirt,7,5,7
